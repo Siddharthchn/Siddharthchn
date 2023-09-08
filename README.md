@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate with **everyone at my same coding level**
 
-- ⚡ Fun fact I am a Guitarist and **hardcore Football fan**
+- ⚡ Fun fact I am a Guitarist and **a hardcore Football fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
