@@ -1,7 +1,7 @@
-[![Masterhead](https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, My name is Siddharth</h1>
 <h3 align="center">I solve web problems creatively</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/test-typing-codes-gif-15828752"
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/test-typing-codes-gif-15828752">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthchn&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthchn" /> </p>
 
