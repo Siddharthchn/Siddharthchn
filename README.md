@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Siddharth</h1>
 <h3 align="center">I solve web problems creatively</h3>
-<img align="right" alt="Coding" width="330" src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d">
+<img align="right" align="center" alt="Coding" width="330" src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthchn&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthchn" /> </p>
 
