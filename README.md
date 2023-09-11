@@ -57,8 +57,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthchn&show_icons=true&locale=en&layout=compact" alt="siddharthchn" /></p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthchn&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8&layout=compact" alt="siddharthchn" /></p>
 
