@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="100">, My name is Siddharth</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, My name is Siddharth</h1>
 <h3 align="center">I solve web problems creatively</h3>
 
 * * *
