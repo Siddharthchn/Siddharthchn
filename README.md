@@ -59,6 +59,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthchn&show_icons=true&locale=en&layout=compact" alt="siddharthchn" /></p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthchn&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8&layout=compact" alt="siddharthchn" /></p>
+
+<br>
+
+  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 | ![Siddharth Chauhan github stats](https://github-readme-stats.vercel.app/api?username=Siddharthchn\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Siddharth Chauhan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddharthchn&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
 
