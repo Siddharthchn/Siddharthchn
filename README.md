@@ -61,4 +61,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthchn&show_icons=true&locale=en" alt="siddharthchn" /></p>
 
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthchn&" alt="siddharthchn" /></p>
