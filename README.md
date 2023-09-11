@@ -1,5 +1,3 @@
-![readme](https://github.com/Siddharthchn/Siddharthchn/assets/109435160/c5edac2b-9af0-4c57-b575-ebe6d6b7e2a4)
-
 
 <h1 align="center">Hi 👋, My name is Siddharth</h1>
 <h3 align="center">I solve web problems creatively</h3>
@@ -23,6 +21,8 @@
 - 👯 I’m looking to collaborate with **everyone at my same coding level**
 
 - ⚡ Fun fact I am a Guitarist and **a hardcore Football fan**
+
+  ![readme](https://github.com/Siddharthchn/Siddharthchn/assets/109435160/c5edac2b-9af0-4c57-b575-ebe6d6b7e2a4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
