@@ -1,6 +1,6 @@
 ![banner](https://github.com/Siddharthchn/Siddharthchn/assets/109435160/f3de3504-f8b1-42ae-807d-4f6f21e5972f)
 
-<h1 align="center">Hi 👋 ![wave1](https://github.com/Siddharthchn/Siddharthchn/assets/109435160/328d8060-216c-45f4-8b2d-dd7df85f7d80)
+<h1 align="center">Hi 👋 
 , My name is Siddharth</h1>
 <h3 align="center">I solve web problems creatively</h3>
 
