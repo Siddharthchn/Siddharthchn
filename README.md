@@ -14,15 +14,15 @@
  <img align="right"  alt="Coding" width="338" src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d">
 
 
-- 🌱 Currently diving into **Web Developing and JavaScript Algorithms**
+- 🌱 Immersed in the world of **Web Development and mastering JavaScript Algorithms.**
 
-- 🥅  1 year of **Frontend dev experience** 
+- 🥅 Seasoned with 1 year of **Frontend development expertise.**
 
-- 🔭 I’m working on projects to **add to my portfolio**
+- 🔭 Actively crafting projects to enrich my **portfolio's depth and diversity.**
 
-- 👯 I’m looking to collaborate with **everyone at my same coding level**
+- 👯 Eager to collaborate with **fellow coding enthusiasts on mutual growth journeys.**
 
-- ⚡ Fun fact I am a Guitarist and **a hardcore Football fan**
+- ⚡ Fun fact: A guitar strummer and **a fervent football aficionado.**
 
 <br>
 
