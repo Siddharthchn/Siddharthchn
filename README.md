@@ -16,7 +16,7 @@
 
 - 🌱 Immersed in the world of **Web Development and mastering JavaScript Algorithms.**
 
-- 🥅 Seasoned with 1 year of **Frontend development expertise.**
+- 🥅 Seasoned with 2 year of **Frontend development expertise.**
 
 - 🔭 Actively crafting projects to enrich my **portfolio's depth and diversity.**
 
